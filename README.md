@@ -1,3 +1,3 @@
 # yogalauncher
 
-![GitHub Logo](/launcher.jpeg =250x250)
+![GitHub Logo](/launcher.jpeg | width=100)
