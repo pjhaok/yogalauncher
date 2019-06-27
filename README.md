@@ -1,3 +1,3 @@
 # YogaLauncher
 
-<img src="/launcher.jpeg" width="120">
+<img src="/launcher.jpeg" width="230">
