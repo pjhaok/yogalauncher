@@ -1,3 +1,3 @@
 # yogalauncher
 
-![GitHub Logo](/launcher.jpg)
+![GitHub Logo](/launcher.jpeg)
